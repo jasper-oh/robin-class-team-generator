@@ -11,18 +11,19 @@ const styles = theme => ({
     marginTop: '1rem'
   },
   paper: {
-    padding: theme.spacing.unit * 2,
+    padding: theme.spacing.unit * 15,
     textAlign: 'center',
-    backgroundColor: '#30e3ca',
+    backgroundColor: '#E9BC6A',
     color: theme.palette.text.secondary
   },
   margin: {
     margin: theme.spacing.unit
   },
   chip: {
+    fontSize:20,
     color: '#e4f9f5',
     backgroundColor: '#11999e',
-    margin: theme.spacing.unit
+    margin: theme.spacing.unit * 3
   },
   link: {
     textDecoration: 'none',

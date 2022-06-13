@@ -28,7 +28,7 @@ const Title = ({ classes }) => {
         <div className={classes.title}>
           <Typography component="h2" variant="h2" gutterBottom>
             <Link component={RouterLink} to="/" className={classes.link}>
-              Random Team Creator
+              Robin's Class Team Creator
             </Link>
           </Typography>
         </div>
