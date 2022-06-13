@@ -41,6 +41,6 @@
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-react-app": "^4.0.1",
     "gh-pages": "^4.0.0"
-  }
+  },
   "homepage": "https://jasper-oh.github.io/robin-class-team-generator"
 }
